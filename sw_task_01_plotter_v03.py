@@ -21,7 +21,7 @@ class Window(QWidget):
             'x'
         ]
         # set the taks title and the weigth and the hieght for the window
-        self.setWindowTitle("Task 1")
+        self.setWindowTitle("Equation Plotter")
         self.setGeometry(500, 100, 450, 850)
         # intialize the gui window
         self.initGui()

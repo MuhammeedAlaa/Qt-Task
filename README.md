@@ -55,11 +55,12 @@ $ pytest testApp.py
 
 <div align="center">
   
-![image](./images/2021-07-11_20-39-59.png)
-![image](./images/2021-07-11_20-40-43.png)
-![image](./images/2021-07-11_20-41-05.png)
-![image](./images/2021-07-11_20-41-52.png)
-![image](./images/2021-07-11_20-42-19.png)
+![image](./images/2021-07-12_3-09-53.png)
+![image](./images/2021-07-12_3-10-48.png)
+![image](./images/2021-07-12_3-11-12.png)
+![image](./images/2021-07-12_3-12-02.png)
+![image](./images/2021-07-12_3-12-32.png)
+![image](./images/2021-07-12_3-12-58.png)
 
 </div>
   
@@ -70,6 +71,7 @@ $ pytest testApp.py
   <td align="center"><a href=""https://github.com/MuhammeedAlaa" target="_black"><img src="https://avatars.githubusercontent.com/u/42709288?v=4" width="150px;" alt="Muhammed Alaa"/><br /><sub><b>Muhamed Alaa</b></sub></a><a href="https://github.com/MuhammeedAlaa/Qt-Task/commits/master?author=MuhammeedAlaa" title="Code">💻</a> <br /></td>
   </tr>
 </table>
+
 ## License
 
 > This software is licensed under MIT License, See [License](https://github.com/MuhammeedAlaa/Qt-Task/blob/master/LICENSE) for more information ©MuhammeedAlaa.
