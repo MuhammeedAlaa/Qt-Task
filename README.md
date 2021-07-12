@@ -2,7 +2,7 @@
 
 ## About The Task
 
-> **Equation-Plotter** is simple gui plotter that take from the user an equation and miniumin and maximum ranges and draw the function
+> **Equation-Plotter** is simple responsive gui plotter that take from the user an equation and miniumin and maximum ranges and draw the function
 
 ### Build with
 
